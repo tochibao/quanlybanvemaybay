@@ -1,0 +1,139 @@
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe.config
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.pdb
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.AssemblyReference.cache
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.Properties.Resources.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.GenerateResource.cache
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.exe
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.pdb
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DangNhap.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.frmMain.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.NhanVien.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoiMatKhau.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.SanBay.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.TuyenBay.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DatCho.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.HangVe.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.KhachHang.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.LichBay.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoanhThu.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinChuyenBay.resources
+E:\Visual Studio 2022\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinKhachHang.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe.config
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.pdb
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.AssemblyReference.cache
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DangNhap.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DatCho.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoanhThu.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoiMatKhau.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.frmMain.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.HangVe.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.KhachHang.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.LichBay.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.NhanVien.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.Properties.Resources.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.SanBay.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinChuyenBay.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinKhachHang.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.TuyenBay.resources
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.GenerateResource.cache
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.CoreCompileInputs.cache
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.exe
+D:\LapTrinhWin\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.pdb
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe.config
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.pdb
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.AssemblyReference.cache
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.SuggestedBindingRedirects.cache
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DangNhap.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DatCho.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoanhThu.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoiMatKhau.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.frmMain.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.HangVe.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.KhachHang.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.LichBay.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.NhanVien.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.Properties.Resources.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.SanBay.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinChuyenBay.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinKhachHang.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.TuyenBay.resources
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.GenerateResource.cache
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.CoreCompileInputs.cache
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.exe
+D:\Quanlibanvemaybay-master\CongNghePhanMem_QuanLiBanVeMayBay-main\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.pdb
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe.config
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.pdb
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.AssemblyReference.cache
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.SuggestedBindingRedirects.cache
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DangNhap.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DatCho.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoanhThu.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoiMatKhau.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.frmMain.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.HangVe.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.KhachHang.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.LichBay.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.NhanVien.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.Properties.Resources.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.SanBay.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinChuyenBay.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinKhachHang.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.TuyenBay.resources
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.GenerateResource.cache
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.CoreCompileInputs.cache
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.exe
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.pdb
+D:\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.ResolveComReference.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe.config
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.pdb
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csprojAssemblyReference.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.ResolveComReference.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DangNhap.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DatCho.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoanhThu.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoiMatKhau.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.frmMain.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.HangVe.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.KhachHang.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.LichBay.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.NhanVien.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.Properties.Resources.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.SanBay.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinChuyenBay.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinKhachHang.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.TuyenBay.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.GenerateResource.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.CoreCompileInputs.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.exe
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm TTXB\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.pdb
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe.config
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.exe
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\bin\Debug\QuanLiBanVeMayBay.pdb
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csprojAssemblyReference.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.ResolveComReference.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DangNhap.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DatCho.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoanhThu.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.DoiMatKhau.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.frmMain.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.HangVe.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.KhachHang.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.LichBay.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.NhanVien.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.Properties.Resources.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.SanBay.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinChuyenBay.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.ThongTinKhachHang.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.TuyenBay.resources
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.GenerateResource.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.csproj.CoreCompileInputs.cache
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.exe
+C:\New folder\Quản lí bán vé máy bay - Nhóm TTXB\Quản lí bán vé máy bay - Nhóm Loli\QuanLiBanVeMayBay\QuanLiBanVeMayBay\obj\Debug\QuanLiBanVeMayBay.pdb
